@@ -1,2 +1,2 @@
 # DataScienceBitsToBytes
-Data Science & Machine Learning . Adding droplets from Data Science ocean 
+Adding my Current & Old work\practices on Data Science & Machine Learning
